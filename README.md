@@ -37,11 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hidekazu-Takayama&layout=compact&theme=radical" width="48%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hidekazu-Takayama/Hidekazu-Takayama/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hidekazu-Takayama/Hidekazu-Takayama/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hidekazu-Takayama/Hidekazu-Takayama/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/Hidekazu-Takayama/Hidekazu-Takayama/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
